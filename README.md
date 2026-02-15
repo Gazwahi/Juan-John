@@ -1,2 +1,4 @@
 # Juan-John
-Funeraria Juan-John Funeral Home webpage.
+Senior project for CISC 4900 – research, code, experiments, and documentation.
+
+Project Overview
