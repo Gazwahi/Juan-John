@@ -31,11 +31,28 @@ How will i approach this?
 Frontend: VS code IDE
 - HTML, CSS, JavaScript
 
+HTML: Site structure/Skeleton. Content and pages
+CSS: Design and Layout. Colors, fonts etc. 
+JS: Interaction & Movement: Navigation Bar open/close, animation, form validation, scroll effects, etc (undecided)
+
 Backend:
-- Springboot, Thymeleaf, PostgreSQL, SendGrid
+- Spring framework, Thymeleaf, PostgreSQL, SendGrid
+
+Spring Boot: Java backend framework for checklist/admin portion.
+Spring Web: Web requests, (GET,POST)
+Spring Data JPA: Connects java app to database
+Spring Security: Protects staff portal, admin login, password encryption, protected pages
+ThymeLeaf: how Spring Boot generates admin pages
+PostgreSQL: database where everything is stored, form submission, admin account, status
+Validation: required formatting and validity
+SendGrid: automatic email sender
 
 Tools:
 - Netlify, Railway, Github
+
+Netlify: Upload site to make live.
+Railway: server for Spring Boot and PostgreSQL, backend lives online
+Github: Project and Repository
 
 # Current Status 
 - Working on HTML Skeleton
